@@ -1,0 +1,16 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pixelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="60" y="60" width="20" height="20" fill="url(#pixelGrad)"/>
+  <rect x="90" y="60" width="20" height="20" fill="url(#pixelGrad)"/>
+  <rect x="120" y="60" width="20" height="20" fill="url(#pixelGrad)"/>
+  <rect x="60" y="90" width="20" height="20" fill="url(#pixelGrad)"/>
+  <rect x="120" y="90" width="20" height="20" fill="url(#pixelGrad)"/>
+  <rect x="60" y="120" width="20" height="20" fill="url(#pixelGrad)"/>
+  <rect x="90" y="120" width="20" height="20" fill="url(#pixelGrad)"/>
+  <rect x="120" y="120" width="20" height="20" fill="url(#pixelGrad)"/>
+</svg>

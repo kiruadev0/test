@@ -1,0 +1,11 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="creativeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M 100 50 Q 130 70 130 100 Q 130 130 100 150 Q 70 130 70 100 Q 70 70 100 50" fill="url(#creativeGrad)"/>
+  <circle cx="90" cy="95" r="5" fill="white"/>
+  <circle cx="110" cy="95" r="5" fill="white"/>
+</svg>
